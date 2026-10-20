@@ -1,4 +1,5 @@
 # tg-shield 🛡️
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg) ![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
 
 Mass-report-attack defense for Telegram groups: media probation, behavior-based trust scoring, one-tap lockdown.
 
